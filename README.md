@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 Hey there!
+- 🌱 I’m Tarun B T, a tech and business enthusiast ..
+- ⚡I am a final year CS student at NMAMIT.
+- 💬 Reach out to me: tarunbt007@gmail.com 
 <!--
 **Tar199/Tar199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
